@@ -1,0 +1,46 @@
+body {
+    background-image: url("1.jpg");
+    width: 1024px;
+    height: auto;
+    background-repeat: no-repeat;
+
+}
+#circle {
+    position: relative;
+    margin: 7em auto;
+    margin-left: 300px;
+    width: 14em; height: 14em;
+    border-radius: 50%;
+    background: url("2.jpg")
+}
+#line{
+    font-family: arial;
+    background-color: azure;
+    width:1000px;
+    height: 20px;
+    margin-left: -25px;
+    margin-top: -80px;
+    font-size: 16px;
+}
+#box{
+    margin-top: 20px;
+    margin-left: 300px;
+}
+.tb1{
+    color:#818181;
+    font-size: 14;
+    height: 25px;
+}
+#btn{
+    margin-top: -30px;
+    margin-left:475px;
+}
+.btn
+{ 
+    font-size: 12px;
+    height:30px;
+    background-color: red;
+    color: azure;
+    border: none;
+
+}
